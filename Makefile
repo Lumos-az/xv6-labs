@@ -198,6 +198,7 @@ UPROGS=\
 	$U/_mytest\
 	$U/_primes\
 	$U/_find\
+	$U/_xargs\
 	
 
 
